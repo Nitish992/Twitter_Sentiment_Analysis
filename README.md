@@ -4,7 +4,7 @@ This Python Script analyse the sentiment of tweets of a user.
 
 ## Requirement
 
-This Script requires some python libraries. Install them using the [pip](https://pip.pypa.io/en/stable/) command below.
+This Script requires some python libraries. Install them using the [pip](https://pip.pypa.io/en/stable/) command.
 
 ```bash
 pip install tweepy
